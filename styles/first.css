@@ -1,11 +1,16 @@
-div{
-    background-color: aqua;
-    margin: 20px;
-    border: 40px;
-    padding: 60pxs;
-    width: 30%;
-    height: 700%;
+li{
+    color: rgba(255, 25, 0, 0.703);
 }
 p{
-    color: red;
+    color: black;
+}
+div{
+    background-color: aqua;
+    width: 700px;
+    border: 20px;
+    border-radius: 5px;
+    padding: 20px;
+}
+#Bought{
+    width: 730px;
 }
